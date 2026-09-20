@@ -142,7 +142,8 @@ while True:
 
 # Output
 
-<img width="1080" height="1403" alt="WhatsApp Image 2026-09-19 at 11 08 42 AM" src="https://github.com/user-attachments/assets/cd5185d1-053f-4120-9138-cb2c3a94b713" />
+<img width="933" height="475" alt="Screenshot 2026-09-18 101733" src="https://github.com/user-attachments/assets/c2ae1283-9796-4d77-bbb6-6d535bf1d287" />
+
 
 # Result
 
